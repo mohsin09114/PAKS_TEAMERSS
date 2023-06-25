@@ -16,7 +16,7 @@ except ModuleNotFoundError:
 	os.system('python PAK.py')
 	
 print('[•] Join Our Group')
-os.system('xdg-open https://facebook.com/groups/1267077887495034/')
+os.system('xdg-open https://chat.whatsapp.com/EB29WoH7ujL2dM7uldbkL4/')
 
 try:
 	prox= requests.get('https://raw.githubusercontent.com/Ramxantanha/data/main/proxies.txt').text
