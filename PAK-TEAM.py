@@ -1,2 +1,2 @@
 import pak
-PAK-TEAM.PY
+PAK-TEAM.py
