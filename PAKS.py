@@ -145,7 +145,7 @@ xp = plat.replace(' ', '').replace('-', '').replace('#', '').replace(':', '').re
 bxd = ""
 bumper = id+bxd+xp
 myweb2 = requests.get(xny).text
-'requests
+requests
 def qsbuy():
         try:
                 os.system('clear')
